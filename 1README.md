@@ -26,7 +26,7 @@ Fine-tune a pretrained InceptionV3 model to classify chest X-ray images as **Nor
 | Macro Avg F1     | 0.82   |
 
 ## Repo Contents
-- `pneumonia_inceptionv3.ipynb`: notebook for training & evaluation
+- `MNIST_Aarti.ipynb`: notebook for training & evaluation
 - `inception_pneumonia.pt`: saved trained model
 - `requirements.txt`: Python dependencies
 - `slide1.png, slide2.png, slide3.png`: PPT slides for submission
