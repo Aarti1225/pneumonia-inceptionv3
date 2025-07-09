@@ -31,7 +31,7 @@ Repo Contents
     MNIST_Aarti.ipynb: notebook for training & evaluation
     inception_pneumonia.pt: saved trained model
     requirements.txt: Python dependencies
-    slide1.png, slide2.png, slide3.png: PPT slides for submission
+    Pneumonia_MNIST.pptx: PPT slides for submission
 
 How to Run
 
