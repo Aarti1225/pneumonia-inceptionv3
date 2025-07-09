@@ -1,0 +1,8 @@
+Hyperparameters:
+- Batch size: 32
+- Learning rate: 0.0005
+- Optimizer: Adam
+- Epochs: 5
+- Loss: Weighted CrossEntropyLoss to address class imbalance
+- Image size: 299x299 (InceptionV3 requirement)
+- Final FC layer modified to output 2 classes
